@@ -1,0 +1,35 @@
+/* HOME PAGE */
+
+/* .cover-img {
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  color: #646cff;
+  width: 100vw;
+  height: 330px;
+  background-position: bottom;
+  font-size: larger;
+  background-size: cover;
+} */
+
+.pages {
+  margin-left: 300px;
+}
+
+/* REQUEST FORM */
+
+.start_end_date_picker_container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.request-form-div {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  border-radius: 8px;
+  text-align: left;
+  padding: 10px;
+  margin-left: 50px;
+}
